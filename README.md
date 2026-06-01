@@ -35,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
