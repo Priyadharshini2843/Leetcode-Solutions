@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0055-jump-game) |
 ## Counting
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0258-add-digits) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
