@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2574-left-and-right-sum-differences](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [2574-left-and-right-sum-differences](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## String
 |  |
 | ------- |
