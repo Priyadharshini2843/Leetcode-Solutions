@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3612-process-string-with-special-operations-i](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Number Theory
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3612-process-string-with-special-operations-i](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
