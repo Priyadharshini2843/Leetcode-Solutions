@@ -4,7 +4,8 @@ class Solution {
        int copy=x;
        int rev=0;
        while(x>0){
-        rev = rev*10 + x%10;
+        int digits=x%10;
+        rev = rev*10 +digits ;
         x/=10;
        }
      return (copy==rev);
