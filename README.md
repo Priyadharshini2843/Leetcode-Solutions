@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Counting
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
