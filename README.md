@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Counting
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2574-left-and-right-sum-differences](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## String
 |  |
 | ------- |
