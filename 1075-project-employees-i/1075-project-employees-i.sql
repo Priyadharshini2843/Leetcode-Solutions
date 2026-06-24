@@ -1,7 +1,3 @@
 /* Write your PL/SQL query statement below */
-SELECT p.project_id, ROUND(SUM(e.experience_years)/COUNT(*),2) AS average_years 
-FROM Project p
-JOIN
-Employee e
-ON p.employee_id = e.employee_id
-GROUP BY p.project_id;
+select p.project_id, ROUND(SUM(e.experience_years)/COUNT(*),2) AS average_years
+from project p join employee e on p.employee_id = e.employee_id group by p.project_id;
