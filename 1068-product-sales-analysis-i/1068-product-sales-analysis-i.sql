@@ -1,2 +1,2 @@
 /* Write your PL/SQL query statement below */
-SELECT product_name, year, price from Sales s left join Product p ON s.product_id = p.product_id;
+SELECT product_name, year, price from Sales s left join Product p ON S.product_id = p.product_id;
