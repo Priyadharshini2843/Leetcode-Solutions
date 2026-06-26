@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1667-fix-names-in-a-table](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1667-fix-names-in-a-table) |
 ## Array
 |  |
 | ------- |
