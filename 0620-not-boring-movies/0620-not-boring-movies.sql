@@ -1,4 +1,4 @@
 /* Write your PL/SQL query statement below */
-SELECT * FROM Cinema WHERE MOD(id,2) = 1 AND
-description <> 'boring'
-ORDER BY rating DESC;
+select * from cinema 
+where description <> 'boring' and mod(id,2) =1
+order by rating desc;
