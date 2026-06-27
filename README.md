@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0595-big-countries) |
+| [0619-biggest-single-number](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
