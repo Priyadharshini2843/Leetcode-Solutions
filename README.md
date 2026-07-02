@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-product-sales-analysis-iii](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1164-product-price-at-a-given-date](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1164-product-price-at-a-given-date) |
 | [1179-reformat-department-table](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1179-reformat-department-table) |
 | [1251-average-selling-price](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1251-average-selling-price) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
