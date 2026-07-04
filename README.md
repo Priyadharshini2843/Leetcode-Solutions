@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0605-can-place-flowers](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0605-can-place-flowers](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Prefix Sum
 |  |
