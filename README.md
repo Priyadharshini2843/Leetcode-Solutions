@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0976-largest-perimeter-triangle](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1701-average-waiting-time](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1701-average-waiting-time) |
 | [1732-find-the-highest-altitude](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1840-maximum-building-height](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0976-largest-perimeter-triangle](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1840-maximum-building-height](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0976-largest-perimeter-triangle](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
+| [0976-largest-perimeter-triangle](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Prefix Sum
 |  |
