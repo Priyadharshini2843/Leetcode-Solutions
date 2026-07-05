@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0859-buddy-strings](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0859-buddy-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0605-can-place-flowers](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
