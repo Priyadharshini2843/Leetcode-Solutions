@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -413,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
