@@ -423,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0278-first-bad-version) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
