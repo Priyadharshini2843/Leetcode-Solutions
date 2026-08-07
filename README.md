@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -542,4 +546,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
