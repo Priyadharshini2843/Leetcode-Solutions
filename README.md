@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0877-stone-game](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0896-monotonic-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0976-largest-perimeter-triangle](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
