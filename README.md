@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2090-k-radius-subarray-averages) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Union-Find
 |  |
 | ------- |
