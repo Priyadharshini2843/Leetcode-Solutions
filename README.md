@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2785-sort-vowels-in-a-string](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2090-k-radius-subarray-averages) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Union-Find
