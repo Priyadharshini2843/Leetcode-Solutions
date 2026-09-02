@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0859-buddy-strings](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0859-buddy-strings) |
 | [1331-rank-transform-of-an-array](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -555,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -662,4 +667,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
