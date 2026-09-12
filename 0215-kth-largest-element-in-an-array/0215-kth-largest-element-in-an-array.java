@@ -15,7 +15,5 @@ for(int x:nums){
             }
         }
         return ans;
-
-        
     }
 }
