@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0976-largest-perimeter-triangle](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1046-last-stone-weight](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1046-last-stone-weight](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
