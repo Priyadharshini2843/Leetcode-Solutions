@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0976-largest-perimeter-triangle](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
@@ -725,5 +729,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
