@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0392-is-subsequence) |
