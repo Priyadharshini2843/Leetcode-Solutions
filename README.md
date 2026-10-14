@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0031-next-permutation) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
@@ -771,4 +773,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
