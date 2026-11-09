@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1267-count-servers-that-communicate](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -679,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -702,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [1260-shift-2d-grid](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
