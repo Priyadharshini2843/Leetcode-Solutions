@@ -7,7 +7,6 @@ class Solution {
         int[] row = new int[m];
         int[] col = new int[n];
 
-        // Count servers in each row and column
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (grid[i][j] == 1) {
@@ -19,7 +18,6 @@ class Solution {
 
         int ans = 0;
 
-        // Count servers that can communicate
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (grid[i][j] == 1 &&
