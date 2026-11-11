@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Database
 |  |
 | ------- |
