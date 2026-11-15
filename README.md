@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1701-average-waiting-time](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1701-average-waiting-time) |
 | [1732-find-the-highest-altitude](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1510-stone-game-iv](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1840-maximum-building-height](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
