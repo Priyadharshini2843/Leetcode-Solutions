@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-average-waiting-time](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1701-average-waiting-time) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2785-sort-vowels-in-a-string](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
