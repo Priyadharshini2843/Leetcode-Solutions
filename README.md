@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1267-count-servers-that-communicate](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Database
 |  |
 | ------- |
