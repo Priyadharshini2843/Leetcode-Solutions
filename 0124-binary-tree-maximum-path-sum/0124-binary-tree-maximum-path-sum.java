@@ -31,7 +31,7 @@ class Solution {
         // Get maximum gain from left and right subtrees
         int left = Math.max(0, findMax(root.left));
         int right = Math.max(0, findMax(root.right));
-
+        
         // Maximum path passing through current node
         int currentSum = root.val + left + right;
 
