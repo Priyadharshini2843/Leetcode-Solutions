@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0652-find-duplicate-subtrees](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0859-buddy-strings](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0859-buddy-strings) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0814-binary-tree-pruning](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0814-binary-tree-pruning](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0814-binary-tree-pruning](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Priyadharshini2843/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
